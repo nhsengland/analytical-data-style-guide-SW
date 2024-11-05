@@ -4,7 +4,7 @@ Hi there! We're thrilled that you'd like to contribute to this landing page repo
 
 ## Creating an issue
 
-If you think of something worth including, improving, or want to contribute, please [raise an issue on GitHub](https://github.com/NHSDigital/data-viz-community-of-practice/issues).
+If you think of something worth including, improving, or want to contribute, please [raise an issue on GitHub](https://github.com/nhsengland/data-viz-community-of-practice/issues).
 
 ## Submitting a pull request
 

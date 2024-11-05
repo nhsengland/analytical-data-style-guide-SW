@@ -167,4 +167,4 @@ The data quality page and metric descriptions page can be combined into one metr
 
     *NHS England is not affiliated with any of the websites or companies in the links to external websites.*
 
-    *If you come across any external links that do not work, we would be grateful if you could report them by raising an issue on our [Data Viz Community of Practice GitHub](https://github.com/NHSDigital/data-viz-community-of-practice).*
+    *If you come across any external links that do not work, we would be grateful if you could report them by raising an issue on our [Data Viz Community of Practice GitHub](https://github.com/nhsengland/data-viz-community-of-practice).*
