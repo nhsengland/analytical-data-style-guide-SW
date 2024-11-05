@@ -1,12 +1,13 @@
 site_name: Data Viz Community of Practice
 # site_url: https://example.com
-repo_url: https://github.com/NHSDigital/data-viz-community-of-practice
+repo_url: https://github.com/nhsengland/data-viz-community-of-practice
 repo_name: Data Viz Community of Practice
 edit_uri: edit/main/docs/
 plugins:
   - git-revision-date-localized:
       fallback_to_build_date: true
   - search
+  - glightbox:
   - mkdocs-jupyter:
       include_source: True
       theme: dark
@@ -103,7 +104,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/NHSDigital/data-viz-community-of-practice
+      link: https://github.com/nhsengland/data-viz-community-of-practice
       name: NHS Data Viz Community of Practice
   generator: false
 copyright: Copyright &copy; 2024 Crown Copyright (NHS England)
@@ -113,5 +114,3 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 watch:
   - overrides
-plugins:
-   - glightbox:
