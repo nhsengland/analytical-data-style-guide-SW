@@ -10,12 +10,11 @@
 
 Use the standard NHS palette consistently across dashboards, reports, and slides.
 
-| Colour Usage | Swatch | HEX Code |
-|--------------|--------|----------|
-| NHS Blue (Primary) | ![#005EB8](https://via.placeholder.com/15/005EB8/000000?text=+) | `#005EB8` |
-| NHS White (Background) | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | `#FFFFFF` |
-| Table Header Background | ![#F0F4F5](https://via.placeholder.com/15/F0F4F5/000000?text=+) | `#F0F4F5` |
-| Standard Text (NHS Black) | ![#212B32](https://via.placeholder.com/15/212B32/000000?text=+) | `#212B32` |
+*A reference table outlining the correct colour is included below*
+
+![Diagram of SW HEX colours](images/branding_identity.png "Diagram of SW HEX colours"){data-title="Diagram of SW HEX colours" data-caption-position="top"}
+
+
 
 ---
 
