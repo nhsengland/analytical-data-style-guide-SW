@@ -11,6 +11,7 @@ plugins:
   - mkdocs-jupyter:
       include_source: True
       theme: dark
+      
 nav:
   - Home: index.md
   # - About: about.md
