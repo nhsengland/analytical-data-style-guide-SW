@@ -6,3 +6,4 @@ hide:
 
 template: home.html
 ---
+<!-- trigger Pages binding: $(date) -->
