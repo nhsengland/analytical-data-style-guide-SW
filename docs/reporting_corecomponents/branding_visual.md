@@ -26,7 +26,7 @@ Follow NHS font and sizing conventions to support clarity and accessibility.
 
 Use **bold** headers, maintain consistent spacing, and limit fonts to Arial only.
 
-*A reference table outlining the correct colour is included below*
+*A reference table outlining the correct font is included below*
 
 ![Diagram of typography formatting](images/typography.png "Diagram of typography formatting"){data-title="Diagram of typography formatting" data-caption-position="top"}
 
