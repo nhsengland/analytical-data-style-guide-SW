@@ -1,4 +1,4 @@
-# Data Visualisation Style Guide – South West Launch
+# Data Visualisation Style Guide – South West -- About
 
 The NHS England South West **Insights & Intelligence (I&I) Team** is proud to introduce the first release of the **Analytical Product Design Guide**.
 
