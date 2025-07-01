@@ -8,7 +8,6 @@ plugins:
       fallback_to_build_date: true
   - search
   - glightbox
-
 nav:
   - Home: index.md
   # - About: about.md
