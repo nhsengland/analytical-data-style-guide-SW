@@ -11,7 +11,7 @@ plugins:
 
 nav:
   - Home: index.md
-  - Launch: launch.md
+  - About: launch.md
   - Core Components:
       - Overview: reporting_corecomponents/index.md
       - Naming Conventions: reporting_corecomponents/naming_conventions.md
