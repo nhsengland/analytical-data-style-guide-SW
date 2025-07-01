@@ -8,16 +8,6 @@ It sets out foundational design principles and practical guidance tailored to th
 
 ---
 
-### 👉 Explore the [Reporting Core Components](reporting_corecomponents/index.md)
+### 👉 Explore the  [Reporting Core Components](reporting_corecomponents/index.md)
 
 This section introduces standard naming conventions and reusable components to help streamline development and promote consistency across I&I projects.
-
----
-
-Check out the video below to learn more about the aims of the guide and how it supports our approach to high-quality, user-led data visualisation.
-<br>
-
-<div style="padding:56.25% 0 0 0;position:relative;">
-  <iframe src="https://player.vimeo.com/video/946241368?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Analytical Product Design Guide launch – South West"></iframe>
-</div>
-<script src="https://player.vimeo.com/api/player.js"></script>
