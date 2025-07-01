@@ -1,12 +1,12 @@
-# 🎨 Branding & Visual Identity
+# Branding & Visual Identity
 
 **A cohesive visual identity is essential to building trust and recognisability. All analytical products should follow the [NHS brand guidance](https://data-viz.nhs.uk/), adapted to the I&I South West context.**
 
-> 💡 87% of people spontaneously recall **NHS Blue** and **White** — using them consistently reinforces trust and brand recognition.
+ 87% of people spontaneously recall **NHS Blue** and **White** — using them consistently reinforces trust and brand recognition.
 
 ---
 
-## 🎨 Colour Palette
+## Colour Palette
 
 Use the standard NHS palette consistently across dashboards, reports, and slides.
 
@@ -19,7 +19,7 @@ Use the standard NHS palette consistently across dashboards, reports, and slides
 
 ---
 
-## 📊 Chart Colour Convention by Organisation
+## Chart Colour Convention by Organisation
 
 Use consistent colour and line styles across products for comparability.
 
@@ -36,11 +36,11 @@ Use consistent colour and line styles across products for comparability.
 | Somerset ICB | `#007F3B` | Solid | Green |
 | South Western Ambulance | `#9A6324` | Solid | Grape |
 
-> ℹ️ Use dashed/dotted variants for multiple organisations within the same colour group.
+>  Use dashed/dotted variants for multiple organisations within the same colour group.
 
 ---
 
-## 🔠 Typography
+## Typography
 
 Follow NHS font and sizing conventions to support clarity and accessibility.
 
@@ -57,15 +57,15 @@ Use **bold** headers, maintain consistent spacing, and limit fonts to Arial only
 
 ---
 
-## 📐 Layout Principles
+## Layout Principles
 
 Follow **Z-pattern layout** — top-left → top-right → bottom-left → bottom-right — to align with natural reading flow.
 
-- 📌 **Logo**: Always place the NHS logo at the **top-right** of the dashboard  
+-  **Logo**: Always place the NHS logo at the **top-right** of the dashboard  
   Size: `100px × 40px`
-- 🗂 **Narrative**: Place to the **right** of charts wherever applicable
-- 🪟 **Spacing**: Use even padding and margins to group visual elements
-- 👁 **Visual Hierarchy**: Emphasise key insights and headers through size and positioning
+-  **Narrative**: Place to the **right** of charts wherever applicable
+-  **Spacing**: Use even padding and margins to group visual elements
+-  **Visual Hierarchy**: Emphasise key insights and headers through size and positioning
 
 ---
 
