@@ -10,7 +10,7 @@ plugins:
   - glightbox
 nav:
   - Home: index.md
-  # - About: about.md
+  - Launch: launch.md
   - Core Components:
       - Overview: reporting_corecomponents/index.md
       - Naming Conventions: reporting_corecomponents/naming_conventions.md
