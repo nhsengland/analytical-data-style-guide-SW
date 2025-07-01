@@ -8,6 +8,7 @@ It sets out foundational design principles and practical guidance tailored to th
 
 ---
 
-### 👉 Explore the  [Reporting Core Components](reporting_corecomponents/index.md)
+### 👉 Explore the  
+### [Reporting Core Components](reporting_corecomponents/index.md)
 
 This section introduces standard naming conventions and reusable components to help streamline development and promote consistency across I&I projects.
