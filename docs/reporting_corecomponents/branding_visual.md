@@ -6,11 +6,9 @@
 
 ---
 
-## Colour Palette
+## Colour Palette and Chart Colour Convention by Organisation
 
 Use the standard NHS palette consistently across dashboards, reports, and slides.
-
-## Chart Colour Convention by Organisatio
 
 Use consistent colour and line styles across products for comparability.
 
