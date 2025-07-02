@@ -20,8 +20,11 @@ With further sections including:
 [Charts vs Tables](reporting_corecomponents/correct_visuals.md), 
 [Writing Narrative](reporting_corecomponents/writing_narrative.md), 
 [Data Formatting & Units](reporting_corecomponents/data_formatting_and_units.md), 
-[Interaction Design](reporting_corecomponents/interaction_design.md) and 
-[Component Library](reporting_corecomponents/component_library.md)
+[Interaction Design](reporting_corecomponents/interaction_design.md), 
+[Component Library](reporting_corecomponents/component_library.md), 
+[Utilisation Review](reporting_corecomponents/utilisation_review.md) and 
+[Governance & Updates](reporting_corecomponents/governance_updates.md)
+
 
 
 
