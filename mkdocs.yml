@@ -19,6 +19,7 @@ nav:
       - RAG Rating: reporting_corecomponents/rag_rating.md
       - Charts vs Tables: reporting_corecomponents/correct_visuals.md
       - Writing Narrative: reporting_corecomponents/writing_narrative.md
+      - Data Formatting & Units: reporting_corecomponents/data_formatting_and_units.md
   - Change Log: change_log.md
   # - Dashboard lifecycle:
   #     - Overview: dashboard_lifecycle/index.md

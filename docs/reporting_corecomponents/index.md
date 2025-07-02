@@ -20,7 +20,7 @@ Guidance Link – Link to any user guide or supporting documentation
 
 
 ## Main Report Content
-**The core content of the product, typically organized as:**
+**The core content of the product, typically organised as:**
 
 Overview Page/Tab – Highlights key insights or summary observations from the data
 
