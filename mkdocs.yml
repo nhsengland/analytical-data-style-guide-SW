@@ -18,6 +18,7 @@ nav:
       - Branding & Visual Identity: reporting_corecomponents/branding_visual.md
       - RAG Rating: reporting_corecomponents/rag_rating.md
       - Charts vs Tables: reporting_corecomponents/correct_visuals.md
+      - Writing Narrative: reporting_corecomponents/writing_narrative.md
   - Change Log: change_log.md
   # - Dashboard lifecycle:
   #     - Overview: dashboard_lifecycle/index.md
