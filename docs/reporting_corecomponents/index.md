@@ -19,6 +19,11 @@ Version Information – What version of the product is this?
 Guidance Link – Link to any user guide or supporting documentation
 
 
+*An example shown below*
+
+![WLMDS Cover Page Example](images/wlmds_snip.png "WLMDS Cover Page Example"){data-title="WLMDS Cover Page Example" data-caption-position="top"}
+
+
 ## Main Report Content
 **The core content of the product, typically organised as:**
 
@@ -27,7 +32,7 @@ Overview Page/Tab – Highlights key insights or summary observations from the d
 Focused Pages/Tabs – Provide deeper dives into specific areas or themes
 
 
-## Metric Descriptions
+## Metric and Metadata Descriptions
 
 Each metric or KPI used in the product should be clearly defined and documented here (or include a link to a separate metric reference document)
 
