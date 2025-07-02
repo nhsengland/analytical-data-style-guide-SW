@@ -21,7 +21,7 @@ nav:
       - Writing Narrative: reporting_corecomponents/writing_narrative.md
       - Data Formatting & Units: reporting_corecomponents/data_formatting_and_units.md
       - Interaction Design: reporting_corecomponents/interaction_design.md
-      - Component Library: reporting_corecomponents/component_library.md
+      # - Component Library: reporting_corecomponents/component_library.md
       - Governance & Updates: reporting_corecomponents/governance_updates.md
   - Change Log: change_log.md
    # - Dashboard lifecycle:
