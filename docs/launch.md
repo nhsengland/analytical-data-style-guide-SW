@@ -9,11 +9,11 @@ It sets out foundational design principles and practical guidance tailored to th
 ---
 
 ### Explore the  
-### [Reporting Core Components](reporting_corecomponents/index.md)
+**[Reporting Core Components](reporting_corecomponents/index.md)**
 
 This section introduces standard naming conventions and reusable components to help streamline development and promote consistency across I&I projects.
 
 With further sections inclduing:
-[Naming conventions](reporting_corecomponents/naming_conventions.md)
-[Branding & Visual Identity](reporting_corecomponents/branding_visual.md)
+[Naming conventions](reporting_corecomponents/naming_conventions.md), 
+[Branding & Visual Identity](reporting_corecomponents/branding_visual.md) and 
 [RAG Rating](reporting_corecomponents/rag_rating.md)
