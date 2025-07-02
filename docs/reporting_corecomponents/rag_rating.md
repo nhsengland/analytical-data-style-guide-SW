@@ -27,7 +27,7 @@ To provide even greater clarity and indicate trend, consider incorporating arrow
 
 ![Diagram of RAG arrows](images/rag_arrows.png "Diagram of RAG arrows"){data-title="Diagram of RAG arrows" data-caption-position="top"}
 
-**By consistently applying these RAG colors and utilising trend arrows, we can ensure that our data products are not only informative but also immediately actionable, enabling our stakeholders to quickly grasp the key takeaways**
+By consistently applying these RAG colors and utilising trend arrows, we can ensure that our data products are not only informative but also **immediately actionable**, enabling our stakeholders to quickly grasp the key takeaways
  
 
 

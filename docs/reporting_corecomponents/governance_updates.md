@@ -1,7 +1,7 @@
 # Governance & Updates
 
  
-**A style guide is a living document that needs to evolve with our team, tools, and best practices. This section outlines the processes for maintaining the guide, ensuring its accuracy, relevance, and continued improvement. Clear governance ensures that the guide remains a valuable and trusted resource for everyone.**
+A style guide is a living document that needs to evolve with our team, tools, and best practices. This section outlines the processes for **maintaining the guide, ensuring its accuracy, relevance, and continued improvement**. Clear governance ensures that the guide remains a **valuable and trusted resource** for everyone.
 
 ---
 
