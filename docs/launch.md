@@ -13,7 +13,7 @@ It sets out foundational design principles and practical guidance tailored to th
 
 This section introduces standard naming conventions and reusable components to help streamline development and promote consistency across I&I projects.
 
-With further sections inclduing:
+With further sections including:
 [Naming conventions](reporting_corecomponents/naming_conventions.md), 
 [Branding & Visual Identity](reporting_corecomponents/branding_visual.md) and 
 [RAG Rating](reporting_corecomponents/rag_rating.md)
