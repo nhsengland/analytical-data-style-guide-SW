@@ -10,6 +10,7 @@ Always lead with the main takeaway or the most important finding. Don't bury the
 
 *Example: "A&E activity grew by 18% last quarter, driven mainly by a spike in respiratory conditions."*
  
+
 **Add Context**
  
 
@@ -17,13 +18,15 @@ Numbers alone rarely tell the full story. Show why the data matters by comparing
 
 *Example: "The 18% A&E activity growth is double the quarterly average over the past two years."*
  
+
 **Explain the Drivers**
  
 
-Identify what's causing the trends you're observing. Is it a new campaign, a shift in behavior, or external factors? Pinpointing the 'why' adds depth to your analysis.
+Identify what's causing the trends you're observing. Is it due to a new public health campaign, seasonal variations in illness, changes in service provision, or external factors like an influenza outbreak? Pinpointing the 'why' adds crucial depth to your analysis of healthcare data.
 
-*Example: "Email engagement rose 45%, likely due to the new personalization strategy."*
+*Example: "The 15% increase in GP appointments for mental health concerns this quarter is likely due to the new 'Talk to Us' awareness campaign and increased community outreach."*
  
+
 **Use Clear, Concise Language**
  
 
@@ -33,7 +36,8 @@ Avoid jargon or overly technical terms unless your audience specifically expects
 
 *Try: "Activity increased by 6.8%—the biggest jump this year."*
  
+
 **Anchor With Key Data Points**
  
- 
+
 Support your narrative with just a few key metrics—ideally 1–3. Don't overwhelm your audience with too many numbers; select the most impactful ones that reinforce your story.
