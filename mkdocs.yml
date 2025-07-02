@@ -50,7 +50,7 @@ nav:
   # - Support: support.md
   # - Glossary: glossary.md
   # - Useful links: useful_links.md
-     - Acknowledgements: acknowledgements.md
+  #  - Acknowledgements: acknowledgements.md
 
 theme:
   name: material
