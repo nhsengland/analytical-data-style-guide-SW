@@ -1,5 +1,5 @@
 # Data Formatting & Units
-Consistent data formatting is crucial for readability and accuracy. Adhering to these guidelines ensures our stakeholders can quickly and correctly interpret the numbers presented.
+Consistent data formatting is crucial for **readability and accuracy**. Adhering to these guidelines ensures our stakeholders can quickly and correctly interpret the numbers presented.
 
 ---
 
