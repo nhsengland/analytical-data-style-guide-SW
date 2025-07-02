@@ -1,5 +1,5 @@
 
-## RAG rating
+# RAG Rating
 
 RAG (Red, Amber, Green) ratings are a simple yet effective way to visually **communicate the status or health of a metric, project, or task**. They provide an immediate understanding of what's on track, what needs attention, and what's at risk. To ensure consistency across all our products, please adhere to the following color palette:
 
