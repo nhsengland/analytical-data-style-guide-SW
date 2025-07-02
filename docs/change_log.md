@@ -1,6 +1,6 @@
 # Acknowledgements
 
-We acknowledge and thank the NHS England Analytical Products Development Team who created the *Data Visulisation Community of Practice* guide which provided a foundational structure and clear guidance for this style guide.
+We acknowledge and thank the NHS England Analytical Products Development Team who created the *Data Visualisation Community of Practice* guide which provided a foundational structure and clear guidance for this style guide.
 
 
 <!-- // cSpell:disable -->
