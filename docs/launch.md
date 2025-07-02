@@ -15,5 +15,15 @@ This section introduces standard naming conventions and reusable components to h
 
 With further sections including:
 [Naming conventions](reporting_corecomponents/naming_conventions.md), 
-[Branding & Visual Identity](reporting_corecomponents/branding_visual.md) and 
-[RAG Rating](reporting_corecomponents/rag_rating.md)
+[Branding & Visual Identity](reporting_corecomponents/branding_visual.md), 
+[RAG Rating](reporting_corecomponents/rag_rating.md), 
+[Charts vs Tables](reporting_corecomponents/correct_visuals.md), 
+[Writing Narrative](reporting_corecomponents/writing_narrative.md), 
+[Data Formatting & Units](reporting_corecomponents/data_formatting_and_units.md), 
+[Interaction Design](reporting_corecomponents/interaction_design.md) and 
+[Component Library](reporting_corecomponents/component_library.md)
+
+
+
+
+
