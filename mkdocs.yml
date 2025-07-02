@@ -16,6 +16,7 @@ nav:
       - Overview: reporting_corecomponents/index.md
       - Naming Conventions: reporting_corecomponents/naming_conventions.md
       - Branding & Visual Identity: reporting_corecomponents/branding_visual.md
+      - RAG Rating: reporting_corecomponents/rag_rating.md
   - Change Log: change_log.md
   # - Dashboard lifecycle:
   #     - Overview: dashboard_lifecycle/index.md
