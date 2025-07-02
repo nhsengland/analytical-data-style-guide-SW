@@ -24,10 +24,15 @@ The audience needs to grasp insights quickly without deep analysis of numbers
 ### Visual Basics: Essential Elements for Every Chart
  
 No matter the chart type, every visual you create needs these core elements for clarity and consistency:
+
 **Chart Title:** Give every chart a clear, concise, and descriptive title right at the top. It should tell your audience exactly what they're looking at.
+
 **Axis Labels:** Make sure all axes are clearly labeled with values (numbers, dates, categories). This helps stakeholders quickly grasp the data's scale and context.
+
 **Axis Titles:** Each axis needs a descriptive title explaining what's being measured (e.g., "Date", "Users"). This is crucial for correct interpretation.
+
 **Legend** (if needed): If your chart shows multiple data series or categories, a legend is a must. It clarifies what each color, symbol, or pattern represents. By default, place legends below the chart for best readability and to avoid blocking the data.
+
 **Consistent Colors:** All colors in your charts, especially for categories or highlights, must align with the [RAG Rating](rag_rating.md) and any other defined palettes in [Branding & Visual Identity](branding_visual.md). This keeps things consistent and professional across all our work.
  
 *A chart example is included below*
@@ -35,14 +40,6 @@ No matter the chart type, every visual you create needs these core elements for 
  ![Example Chart](images/chart_example.png "Example Chart"){data-title="Example Chart" data-caption-position="top"}
 
 
-RAG (Red, Amber, Green) ratings are a simple yet effective way to visually **communicate the status or health of a metric, project, or task**. They provide an immediate understanding of what's on track, what needs attention, and what's at risk. To ensure consistency across all our products, please adhere to the following color palette:
-
-*A reference table outlining the correct colour is included below*
-
-![Diagram of RAG colours](images/rag_colours.png "Diagram of RAG colours"){data-title="Diagram of RAG colours" data-caption-position="top"}
-
-
- 
 
 
 
