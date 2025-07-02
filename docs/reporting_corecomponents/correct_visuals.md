@@ -28,7 +28,7 @@ No matter the chart type, every visual you create needs these core elements for 
 **Axis Labels:** Make sure all axes are clearly labeled with values (numbers, dates, categories). This helps stakeholders quickly grasp the data's scale and context.
 **Axis Titles:** Each axis needs a descriptive title explaining what's being measured (e.g., "Date", "Users"). This is crucial for correct interpretation.
 **Legend** (if needed): If your chart shows multiple data series or categories, a legend is a must. It clarifies what each color, symbol, or pattern represents. By default, place legends below the chart for best readability and to avoid blocking the data.
-**Consistent Colors:** All colors in your charts, especially for categories or highlights, must align with the [RAG Rating](reporting_corecomponents/rag_rating.md) and any other defined palettes in [Branding & Visual Identity](reporting_corecomponents/branding_visual.md). This keeps things consistent and professional across all our work.
+**Consistent Colors:** All colors in your charts, especially for categories or highlights, must align with the [RAG Rating](rag_rating.md) and any other defined palettes in [Branding & Visual Identity](branding_visual.md). This keeps things consistent and professional across all our work.
  
 *A chart example is included below*
 
