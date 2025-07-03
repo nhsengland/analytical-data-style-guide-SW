@@ -6,6 +6,7 @@ Choosing the correct visual is paramount to **increasing understanding and deriv
 The fundamental decision often lies between presenting data in a table or a chart.
 
 **Tables are excellent when:**
+
 You need to display precise values
 
 The audience needs to look up individual figures
@@ -17,6 +18,7 @@ The dataset is relatively small
 The primary goal is to compare individual data points rather than overall trends
 
 **Charts are ideal when:**
+
 You want to show trends, patterns, or relationships in the data
 
 The goal is to provide a quick overview and identify outliers
