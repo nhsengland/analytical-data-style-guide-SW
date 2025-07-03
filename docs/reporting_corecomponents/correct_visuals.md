@@ -7,15 +7,24 @@ The fundamental decision often lies between presenting data in a table or a char
 
 **Tables are excellent when:**
 You need to display precise values
+
 The audience needs to look up individual figures
+
 You have multiple units of measure
+
 The dataset is relatively small
+
 The primary goal is to compare individual data points rather than overall trends
+
 **Charts are ideal when:**
 You want to show trends, patterns, or relationships in the data
+
 The goal is to provide a quick overview and identify outliers
+
 You are dealing with larger datasets where individual values are less important than the overall story
+
 The audience needs to grasp insights quickly without deep analysis of numbers
+
 
 ![Decision-making process between tables and charts](images/tabe_vs_chart.png "Decision-making process between tables and charts"){data-title="Decision-making process between tables and charts" data-caption-position="top"}
 
