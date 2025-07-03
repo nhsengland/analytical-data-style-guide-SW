@@ -1,6 +1,6 @@
 # Data Visualisation Style Guide – South West
 
-The NHS England South West **Insights & Intelligence (I&I) Team** is proud to introduce the first release of the **Analytical Product Design Guide**.
+The NHS England South West Insights & Intelligence (I&I) Team **Analytical Product Design Guide**.
 
 This internal guide has been developed to support consistent, clear, and user-centred design across a wide range of analytical products — including dashboards, reports, and tools built in **Power BI**, **Excel**, and **R Markdown**.
 
