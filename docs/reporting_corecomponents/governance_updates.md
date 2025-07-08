@@ -1,25 +1,25 @@
 # Governance & Updates
 
  
-A style guide is a living document that needs to evolve with our team, tools, and best practices. This section outlines the processes for **maintaining the guide, ensuring its accuracy, relevance, and continued improvement**. Clear governance ensures that the guide remains a **valuable and trusted resource** for everyone.
+This section outlines the processes for **maintaining products, ensuring accuracy, relevance, and continued improvement**. Clear governance ensures that products remain a **valuable and trusted resource** for everyone.
 
 ---
 
 ### Change Log
  
-**Version Control:** Maintain a detailed change log that documents all updates, revisions, and additions to the style guide. This provides transparency and allows team members to quickly see what has changed and when.
+**Version Control:** Maintain a detailed change log for each data product. This log should document all updates, revisions, and additions made to the product. This provides transparency and allows both your team members and users of the data products to quickly see what has changed and when.
 
 ---
 
 ### Process for Proposing Updates
  
-**Continuous Improvement:** Establish a clear and accessible process for all team members to propose new guidelines, suggest amendments to existing ones, or recommend improvements to the style guide itself. This fosters a culture of collective ownership and continuous improvement.
+**Continuous Improvement:** Establish a clear and accessible process for all team members to suggest amendments or improvements to existing data products, or to propose new data products. 
 
 ---
 
 ### Maintainers/Owners
  
-**Accountability:** Clearly identify the individuals or specific team responsible for the ongoing maintenance, regular review, and ultimate ownership of this style guide. This ensures accountability and a dedicated resource for questions and updates.
+**Accountability:** Clearly identify the individuals or specific team responsible for the ongoing maintenance, regular review, and ultimate ownership of each data product. This ensures accountability and a dedicated resource for questions and updates.
  
 
 
