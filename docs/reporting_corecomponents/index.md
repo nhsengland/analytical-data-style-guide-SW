@@ -18,7 +18,7 @@ Regardless of the platform or tool used, all analytical products should include 
 
 **Guidance Link:** Link to any user guide or supporting documentation
 
-
+**Programme Area Linking:** Include the relevant link to each I&I product programe area
 *An example shown below*
 
 ![WLMDS Cover Page Example](images/wlmds_snip.png "WLMDS Cover Page Example"){data-title="WLMDS Cover Page Example" data-caption-position="top"}
@@ -44,3 +44,30 @@ If the product uses SitRep or submission-based data, it should include or link t
 
 A link to the relevant GitHub repository where the underlying code and logic for the product are maintained
 
+## Product Navigation
+
+All routine analytical products should be made available on the [NHS Futures page](https://future.nhs.uk/connect.ti/SouthWestAnalytics/view?objectID=1125188) under the relevant I&I programme area. They should also be recorded within the Product A–Z on [NHS Futures page](https://future.nhs.uk/connect.ti/SouthWestAnalytics/view?objectID=1125188).
+
+**Product Description:** Every product should include a clear description outlining its purpose and the frequency of updates on the NHS Futures product page.
+
+*An example shown below*
+
+![Futures Product Description](images/futures_example.png "Futures Product Description Example"){data-title="Futures Product Description Example" data-caption-position="top"}
+
+
+**Programme Area Linking:** When adding a product description, include a link from the A–Z that directs users to other products in the same programme area. Use the relevant link from the table of programme areas below. (*As per example shown above*)
+
+Below is a list of all the programme areas and the relevan A-Z I&I product link
+
+| Programme Area                              | Link |
+|---------------------------------------------|------|
+| Community                                   | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=3) |
+| Data Quality                                | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=8) |
+| Elective                                    | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=1) |
+| Health Inequalities                         | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=12) |
+| Infrastructure / Technology & Estates       | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=9) |
+| Learning Disabilities                       | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=7) |
+| Non Elective                                | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=2) |
+| Population Health                           | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=10) |
+| Safeguarding                                | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=11) |
+| Workforce                                   | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=5) |
