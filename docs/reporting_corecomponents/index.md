@@ -19,7 +19,8 @@ Regardless of the platform or tool used, all analytical products should include 
 **Guidance Link:** Link to any user guide or supporting documentation
 
 **Programme Area Linking:** Include the relevant link to each I&I product programe area
-*An example shown below*
+
+(*An example shown below*)
 
 ![WLMDS Cover Page Example](images/wlmds_snip.png "WLMDS Cover Page Example"){data-title="WLMDS Cover Page Example" data-caption-position="top"}
 
@@ -46,11 +47,10 @@ A link to the relevant GitHub repository where the underlying code and logic for
 
 ## Product Navigation
 
-All routine analytical products should be made available on the [NHS Futures page](https://future.nhs.uk/connect.ti/SouthWestAnalytics/view?objectID=1125188) under the relevant I&I programme area. They should also be recorded within the Product A–Z on [NHS Futures page](https://future.nhs.uk/connect.ti/SouthWestAnalytics/view?objectID=1125188).
+All routine analytical products should be made available on the [NHS Futures page](https://future.nhs.uk/connect.ti/SouthWestAnalytics/view?objectID=1125188) under the relevant I&I programme area. They should also be recorded within the [Product A–Z](https://future.nhs.uk/connect.ti/SouthWestAnalytics/view?objectID=1125188) on NHS.
 
 **Product Description:** Every product should include a clear description outlining its purpose and the frequency of updates on the NHS Futures product page
 
--
 
 (*As per example shown below*)
 
