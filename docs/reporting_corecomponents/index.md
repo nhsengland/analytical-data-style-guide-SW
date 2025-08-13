@@ -24,6 +24,7 @@ Regardless of the platform or tool used, all analytical products should include 
 
 ![WLMDS Cover Page Example](images/wlmds_snip.png "WLMDS Cover Page Example"){data-title="WLMDS Cover Page Example" data-caption-position="top"}
 
+---
 
 ## Main Report Content
 **The core content of the product, typically organised as:**
@@ -32,18 +33,27 @@ Regardless of the platform or tool used, all analytical products should include 
 
 **Focused Pages/Tabs:** Provide deeper dives into specific areas or themes
 
+---
 
 ## Metric and Metadata Descriptions
 
 Each metric or KPI used in the product should be clearly defined and documented here (or include a link to a separate metric reference document)
 
+---
+
 ## Data Quality/Submission Compliance
 
 If the product uses SitRep or submission-based data, it should include or link to a submission compliance or data quality report. This promotes transparency in interpretation
 
+---
+
+
 ## Coding
 
 A link to the relevant GitHub repository where the underlying code and logic for the product are maintained
+
+---
+
 
 ## Product Navigation
 
