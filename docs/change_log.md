@@ -16,4 +16,4 @@ We acknowledge and thank the NHS England Analytical Products Development Team wh
 
 | Release number | Release date | Release type | Main changes                                             |
 | -------------- | ------------ | ------------ | -------------------------------------------------------- |
-| 1.0            | July 2025    | Launch       | - Created and Launched style guide content               |
+| 1.0            | August 2025    | Launch       | - Created and Launched style guide content               |

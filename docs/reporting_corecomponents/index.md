@@ -47,13 +47,11 @@ If the product uses SitRep or submission-based data, it should include or link t
 
 ---
 
-
 ## Coding
 
 A link to the relevant GitHub repository where the underlying code and logic for the product are maintained
 
 ---
-
 
 ## Product Navigation
 
