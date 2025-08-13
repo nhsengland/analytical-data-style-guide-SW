@@ -49,7 +49,9 @@ A link to the relevant GitHub repository where the underlying code and logic for
 All routine analytical products should be made available on the [NHS Futures page](https://future.nhs.uk/connect.ti/SouthWestAnalytics/view?objectID=1125188) under the relevant I&I programme area. They should also be recorded within the Product A–Z on [NHS Futures page](https://future.nhs.uk/connect.ti/SouthWestAnalytics/view?objectID=1125188).
 
 **Product Description:** Every product should include a clear description outlining its purpose and the frequency of updates on the NHS Futures product page
----
+
+
+
 (*As per example shown below*)
 
 ![Futures Product Description](images/futures_example.png "Futures Product Description Example"){data-title="Futures Product Description Example" data-caption-position="top"}
@@ -71,5 +73,6 @@ Below is a list of all the programme areas and the relevan A-Z I&I product link
 | Population Health                           | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=10) |
 | Safeguarding                                | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=11) |
 | Workforce                                   | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=5) |
+
 
 
