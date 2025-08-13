@@ -50,7 +50,7 @@ All routine analytical products should be made available on the [NHS Futures pag
 
 **Product Description:** Every product should include a clear description outlining its purpose and the frequency of updates on the NHS Futures product page
 
-
+-
 
 (*As per example shown below*)
 
