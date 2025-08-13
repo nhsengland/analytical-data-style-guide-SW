@@ -26,7 +26,7 @@ Regardless of the platform or tool used, all analytical products should include 
 
 ---
 
-## Main Report Content
+### Main Report Content
 **The core content of the product, typically organised as:**
 
 **Overview Page/Tab:** Highlights key insights or summary observations from the data
@@ -35,25 +35,25 @@ Regardless of the platform or tool used, all analytical products should include 
 
 ---
 
-## Metric and Metadata Descriptions
+### Metric and Metadata Descriptions
 
 Each metric or KPI used in the product should be clearly defined and documented here (or include a link to a separate metric reference document)
 
 ---
 
-## Data Quality/Submission Compliance
+### Data Quality/Submission Compliance
 
 If the product uses SitRep or submission-based data, it should include or link to a submission compliance or data quality report. This promotes transparency in interpretation
 
 ---
 
-## Coding
+### Coding
 
 A link to the relevant GitHub repository where the underlying code and logic for the product are maintained
 
 ---
 
-## Product Navigation
+### Product Navigation
 
 All routine analytical products should be made available on the [NHS Futures page](https://future.nhs.uk/connect.ti/SouthWestAnalytics/view?objectID=1125188) under the relevant I&I programme area. They should also be recorded within the [Product A–Z](https://future.nhs.uk/connect.ti/SouthWestAnalytics/view?objectID=1125188) on NHS.
 
