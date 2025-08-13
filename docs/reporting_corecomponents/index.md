@@ -57,22 +57,21 @@ All routine analytical products should be made available on the [NHS Futures pag
 ![Futures Product Description](images/futures_example.png "Futures Product Description Example"){data-title="Futures Product Description Example" data-caption-position="top"}
 
 
-**Programme Area Linking:** When adding a product description, include a link from the A–Z that directs users to other products in the same programme area. Use the relevant link from the table of programme areas below. 
+**Programme Area Linking:** When adding a product description, include a link from the A–Z that directs users to other products in the same programme area. Use the relevant link from the table below of programme areas. 
 
-Below is a list of all the programme areas and the relevan A-Z I&I product link
 
 | Programme Area                              | Link |
 |---------------------------------------------|------|
-| Community                                   | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=3) |
-| Data Quality                                | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=8) |
-| Elective                                    | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=1) |
-| Health Inequalities                         | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=12) |
-| Infrastructure / Technology & Estates       | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=9) |
-| Learning Disabilities                       | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=7) |
-| Non Elective                                | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=2) |
-| Population Health                           | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=10) |
-| Safeguarding                                | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=11) |
-| Workforce                                   | [View Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=5) |
+| Community                                   | [View Community Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=3) |
+| Data Quality                                | [View Data Quality Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=8) |
+| Elective                                    | [View Elective Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=1) |
+| Health Inequalities                         | [View Health Inequalities Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=12) |
+| Infrastructure / Technology & Estates       | [View Infrastructure / Technology & Estates Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=9) |
+| Learning Disabilities                       | [View Learning Disabilities Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=7) |
+| Non Elective                                | [View Non Elective Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=2) |
+| Population Health                           | [View Population Health Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=10) |
+| Safeguarding                                | [View Safeguarding Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=11) |
+| Workforce                                   | [View Workforce Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=5) |
 
 
 
