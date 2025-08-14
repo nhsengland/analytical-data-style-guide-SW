@@ -9,7 +9,6 @@ plugins:
   - search
   - glightbox
 
-
 nav:
   - Home: index.md
   - About: launch.md
