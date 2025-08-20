@@ -1,5 +1,5 @@
 site_name: Analytical Product Design Guide - South West
-repo_url: https://nhsengland.github.io/analytical-data-style-guide-SW/
+repo_url: https://github.com/nhsengland/analytical-data-style-guide-SW
 repo_name: Analytical Product Design Guide - South West
 edit_uri: edit/main/docs/
 
@@ -112,7 +112,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://nhsengland.github.io/analytical-data-style-guide-SW/
+      link: https://github.com/nhsengland/analytical-data-style-guide-SW
       name: NHS Analytical Product Design Guide - South West
   generator: false
 
