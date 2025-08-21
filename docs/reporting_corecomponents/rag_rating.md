@@ -1,5 +1,3 @@
-## Using SPC and Interpreting Variation
-
 **Best Practice:**  
 Where possible, products should use **Statistical Process Control (SPC)** to show variation over time. SPC is a powerful tool for distinguishing between normal fluctuation and meaningful change, supporting better decision-making and reducing overreaction to single data points.
 
@@ -26,9 +24,9 @@ In some cases, SPC may not be appropriate or possible (e.g. too few data points,
 ### Direction of Travel  
 Where SPC isn’t used, adopt a simplified variation model using terms such as:
 
-- **Improved**  
-- **Sustained**  
-- **Deteriorated**  
+- Improved 
+- Sustained  
+- Deteriorated  
 
 Logic for how these terms are applied should follow agreed internal rules. _(Link to be provided.)_
 
