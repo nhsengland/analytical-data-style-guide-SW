@@ -1,5 +1,39 @@
+### Using SPC and Interpreting Variation
 
-# RAG Rating
+**Best Practice:**  
+Where possible, products should use **Statistical Process Control (SPC)** to show variation over time. SPC is a powerful tool for distinguishing between normal fluctuation and meaningful change, supporting better decision-making and reducing overreaction to single data points.
+
+For national guidance and methodology, refer to:  
+[Making Data Count – NHS Improvement](https://www.england.nhs.uk/ourwork/qual-clin-lead/making-data-count/)
+
+### When to Use SPC
+
+SPC should be applied when:
+
+- Time series data is available (typically ≥10 points)
+- The product aims to identify improvement, deterioration, or stability
+- Variation analysis is key to the product’s purpose
+
+Where SPC is used, always include a brief explanation of what SPC is, **with a link to user-friendly SPC guidance** for context and onboarding.  
+_Link to be created: e.g., "What is SPC?"_
+
+---
+
+## Alternatives to SPC
+
+In some cases, SPC may not be appropriate or possible (e.g. too few data points, binary data). In these situations, use one of the following fallback methods to indicate change:
+
+### Direction of Travel  
+Where SPC isn’t used, adopt a simplified variation model using terms such as:
+
+- **Improved**  
+- **Sustained**  
+- **Deteriorated**  
+
+Logic for how these terms are applied should follow agreed internal rules. _(Andy to provide logic.)_
+
+
+## RAG Rating
 
 RAG (Red, Amber, Green) ratings are a simple yet effective way to visually **communicate the status or health of a metric, project, or task**. They provide an immediate understanding of what's on track, what needs attention, and what's at risk. To ensure consistency across all our products, please adhere to the following color palette:
 

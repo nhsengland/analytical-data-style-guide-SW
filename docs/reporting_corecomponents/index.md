@@ -1,5 +1,20 @@
 # Core Components of Any Reporting Product
+
 Regardless of the platform or tool used, all analytical products should include the following core components to ensure clarity, transparency, and usability:
+
+## Specification & Ownership
+
+**Foundations of Good Product Design:**  
+Every analytical product must have two key foundations in place before, during, and after development:
+
+- **A Product Specification:**  
+  This is a clear, accessible document that outlines the product’s purpose, intended audience, key metrics, data sources, update frequency, and alignment with design principles. It serves as a single source of truth for what the product does, how it works, and who it’s for.
+
+- **A Named Owner:**  
+  Each product must have an individual or team responsible for the product’s ongoing relevance, accuracy, and user engagement. The owner is accountable for ensuring the specification is followed, updated as needed, and that the product is maintained over time.
+
+These foundations help avoid ambiguity, support future handovers, and align with the style guide's principles of clarity, transparency, and usability.
+
 
 ## Cover Page
 **This section provides essential context and metadata about the product:** 
