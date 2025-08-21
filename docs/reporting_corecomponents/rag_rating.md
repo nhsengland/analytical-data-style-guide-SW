@@ -32,6 +32,7 @@ Where SPC isn’t used, adopt a simplified variation model using terms such as:
 
 Logic for how these terms are applied should follow agreed internal rules. _(Andy to provide logic.)_
 
+---
 
 ## RAG Rating
 
