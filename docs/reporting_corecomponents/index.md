@@ -71,6 +71,7 @@ All routine analytical products should be made available on the [NHS Futures pag
 
 **Product Description:** Every product should include a clear description outlining its purpose and the frequency of updates on the NHS Futures product page
 
+**How to get access:** Directions on how to gain access should be clearly shown (e.g. "For access to any analytical product, please contact the I&I team at: **england.swinsightsandintelligence@nhs.net**)
 
 (*As per example shown below*)
 
@@ -93,5 +94,39 @@ All routine analytical products should be made available on the [NHS Futures pag
 | Safeguarding                                | [View Safeguarding Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=11) |
 | Workforce                                   | [View Workforce Products](https://future.nhs.uk/SouthWestAnalytics/viewDatastore?dsid=1125188&adv=s&datViewmode=list&search_2=5) |
 
+
+---
+
+### Access & Product Classification
+
+**Access Control:**Each analytical product must have a defined access level based on its content sensitivity and intended audience. This ensures appropriate data governance, protects sensitive insights, and prevents unintentional sharing outside of agreed boundaries.
+
+#### Product Classification Levels
+
+Access levels are standardised into four categories:
+
+**Highly Confidential**  
+Access limited to named individuals or closed groups (e.g. policy, clinical or legal teams). May include patient-identifiable information or draft material not ready for broader viewing.
+
+**NHS England – Internal (Regional Only)**  
+For use within the regional NHS England team. May include performance data, internal indicators, or working dashboards still in iteration.
+
+**NHS England – Internal (All Regions)**  
+Suitable for sharing across all NHS England regional teams. These products must be well-documented, non-sensitive, and ready for broader consumption.
+
+**NHS Region (ICBs and Providers)**  
+Intended for wider access across systems — including ICBs and provider trusts. These products should meet high standards for accuracy, clarity, and contextual support.
+
+Each product’s **classification level must be recorded in the product catalogue**, and will be used as the reference point for granting or restricting access.
+
+---
+
+### Access Process: Initial Launch & BAU
+
+**At Launch:** The product owner must confirm the correct classification level and ensure this is documented in the product catalogue. The I&I team will apply appropriate access controls based on this.
+
+**Ongoing (BAU):** Responsibility for managing access remains with the product owner. Any changes to classification, access requirements, or user groups should be submitted via the I&I change process and reflected in the catalogue.
+
+For access to any analytical product, please contact the I&I team at: **[INSERT CONTACT OR SERVICE DESK LINK]**
 
 
