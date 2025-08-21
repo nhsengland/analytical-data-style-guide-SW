@@ -99,23 +99,19 @@ All routine analytical products should be made available on the [NHS Futures pag
 
 ### Access & Product Classification
 
-**Access Control:**Each analytical product must have a defined access level based on its content sensitivity and intended audience. This ensures appropriate data governance, protects sensitive insights, and prevents unintentional sharing outside of agreed boundaries.
+**Access Control:** Each analytical product must have a defined access level based on its content sensitivity and intended audience. This ensures appropriate data governance, protects sensitive insights, and prevents unintentional sharing outside of agreed boundaries.
 
 #### Product Classification Levels
 
 Access levels are standardised into four categories:
 
-**Highly Confidential**  
-Access limited to named individuals or closed groups (e.g. policy, clinical or legal teams). May include patient-identifiable information or draft material not ready for broader viewing.
+**Highly Confidential:** Access limited to named individuals or closed groups. May include draft material not ready for broader viewing.
 
-**NHS England – Internal (Regional Only)**  
-For use within the regional NHS England team. May include performance data, internal indicators, or working dashboards still in iteration.
+**NHS England – Internal (Regional Only):** For use within the regional NHS England team. May include performance data, internal indicators, or working dashboards still in iteration.
 
-**NHS England – Internal (All Regions)**  
-Suitable for sharing across all NHS England regional teams. These products must be well-documented, non-sensitive, and ready for broader consumption.
+**NHS England – Internal (All Regions):** Suitable for sharing across all NHS England regional teams. These products must be well-documented, non-sensitive, and ready for broader consumption.
 
-**NHS Region (ICBs and Providers)**  
-Intended for wider access across systems — including ICBs and provider trusts. These products should meet high standards for accuracy, clarity, and contextual support.
+**NHS Region (ICBs and Providers):** Intended for wider access across systems — including ICBs and provider trusts. These products should meet high standards for accuracy, clarity, and contextual support.
 
 Each product’s **classification level must be recorded in the product catalogue**, and will be used as the reference point for granting or restricting access.
 
