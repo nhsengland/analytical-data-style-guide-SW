@@ -119,14 +119,6 @@ Intended for wider access across systems — including ICBs and provider trusts.
 
 Each product’s **classification level must be recorded in the product catalogue**, and will be used as the reference point for granting or restricting access.
 
----
 
-### Access Process: Initial Launch & BAU
-
-**At Launch:** The product owner must confirm the correct classification level and ensure this is documented in the product catalogue. The I&I team will apply appropriate access controls based on this.
-
-**Ongoing (BAU):** Responsibility for managing access remains with the product owner. Any changes to classification, access requirements, or user groups should be submitted via the I&I change process and reflected in the catalogue.
-
-For access to any analytical product, please contact the I&I team at: **[INSERT CONTACT OR SERVICE DESK LINK]**
 
 
