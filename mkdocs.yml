@@ -14,6 +14,7 @@ nav:
   - About: launch.md
   - Core Components:
       - Overview: reporting_corecomponents/index.md
+      - Design Considerations: reporting_corecomponents/design_considerations.md
       - Naming Conventions: reporting_corecomponents/naming_conventions.md
       - Branding & Visual Identity: reporting_corecomponents/branding_visual.md
       - Using SPC & RAG rating: reporting_corecomponents/rag_rating.md
