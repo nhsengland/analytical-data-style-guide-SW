@@ -15,3 +15,7 @@ When displaying multiple providers, always present them in a standard, agreed or
 ![Diagram of SW naming conventions](images/naming_conventions.png "Diagram of SW naming conventions"){data-title="Diagram of SW naming conventions" data-caption-position="top"}
 
 Please be aware ICB clustering is expected to happen in the near future, therefore ensure any products are desinged to accomodate this. 
+
+*SW ICB Cluster breakdown*
+
+![Diagram of SW clusters](images/SW_Clusters.png "Diagram of SW clusters"){data-title="Diagram of SW clusters" data-caption-position="top"}
