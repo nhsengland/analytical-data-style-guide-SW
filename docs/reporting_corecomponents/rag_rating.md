@@ -15,6 +15,10 @@ SPC should be applied when:
 Where SPC is used, always include a brief explanation of what SPC is **by included a link to user-friendly SPC guidance**.  
 _(Link to be provided.)_
 
+*A table outlining how to interpret an SPC chart*
+
+![Interpreting an SPC Chart](images/SPC.png "Interpreting an SPC Chart"){data-title="Interpreting an SPC Chart" data-caption-position="top"}
+
 ---
 
 ## Alternatives to SPC
