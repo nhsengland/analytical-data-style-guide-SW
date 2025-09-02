@@ -19,25 +19,20 @@ _(Link to be provided.)_
 
 ![Interpreting an SPC Chart](images/SPC.png "Interpreting an SPC Chart"){data-title="Interpreting an SPC Chart" data-caption-position="top"}
 
-### FDP Variation Logic
-*An explainer on FDP Variation Logic for SPC*
-
-![FDP Variation Logic](images/FDP_Variation_Logic.png "FDP Variation Logic"){data-title="FDP Variation Logic" data-caption-position="top"}
 
 ---
 
-## Alternatives to SPC
 
-In some cases, SPC may not be appropriate or possible (e.g. too few data points, binary data). In these situations, use one of the following fallback methods to indicate change:
-
-### Direction of Travel  
-Where SPC isn’t used, adopt a simplified variation model using terms such as:
+### Alternative SPC  
+A simplified view of SPC trend (found in FDP) uses the following terms:
 
 - Improved 
 - Sustained  
 - Deteriorated  
 
-Logic for how these terms are applied should follow agreed internal rules. _(Link to be provided.)_
+![FDP Variation Logic](images/FDP_Variation_Logic.png "FDP Variation Logic"){data-title="FDP Variation Logic" data-caption-position="top"}
+
+
 
 ---
 
