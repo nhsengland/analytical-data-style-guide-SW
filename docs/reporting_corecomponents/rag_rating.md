@@ -19,6 +19,11 @@ _(Link to be provided.)_
 
 ![Interpreting an SPC Chart](images/SPC.png "Interpreting an SPC Chart"){data-title="Interpreting an SPC Chart" data-caption-position="top"}
 
+### FDP Variation Logic
+*An explainer on FDP Variation Logic for SPC*
+
+![FDP Variation Logic](images/FDP_Variation_Logic.png "FDP Variation Logic"){data-title="FDP Variation Logic" data-caption-position="top"}
+
 ---
 
 ## Alternatives to SPC
@@ -35,11 +40,6 @@ Where SPC isn’t used, adopt a simplified variation model using terms such as:
 Logic for how these terms are applied should follow agreed internal rules. _(Link to be provided.)_
 
 ---
-
-### FDP Variation Logic
-*An explainer on FDP Variation Logic for SPC*
-
-![FDP Variation Logic](images/FDP_Variation_Logic.png "FDP Variation Logic"){data-title="FDP Variation Logic" data-caption-position="top"}
 
 ## RAG Rating
 
