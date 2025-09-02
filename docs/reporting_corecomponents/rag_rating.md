@@ -2,7 +2,7 @@
 Where possible, products should use **Statistical Process Control (SPC)** to show variation over time. SPC is a powerful tool for distinguishing between normal fluctuation and meaningful change, supporting better decision-making and reducing overreaction to single data points.
 
 For national guidance and methodology, refer to:  
-[Making Data Count – NHS Improvement](https://www.england.nhs.uk/ourwork/qual-clin-lead/making-data-count/)
+[Making Data Count – NHS Improvement](https://www.england.nhs.uk/statistical-process-control-tool/)
 
 ### When to Use SPC
 
@@ -13,7 +13,7 @@ SPC should be applied when:
 - Variation analysis is key to the product’s purpose
 
 Where SPC is used, always include a brief explanation of what SPC is **by included a link to user-friendly SPC guidance**.  
-_(Link to be provided.)_
+
 
 *A table outlining how to interpret an SPC chart*
 
