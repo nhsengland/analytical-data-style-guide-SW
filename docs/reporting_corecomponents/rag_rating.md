@@ -36,6 +36,11 @@ Logic for how these terms are applied should follow agreed internal rules. _(Lin
 
 ---
 
+### FDP Variation Logic
+*An explainer on FDP Variation Logic for SPC*
+
+![FDP Variation Logic](images/FDP_Variation_Logic.png "FDP Variation Logic"){data-title="FDP Variation Logic" data-caption-position="top"}
+
 ## RAG Rating
 
 RAG (Red, Amber, Green) ratings are a simple yet effective way to visually **communicate the status or health of a metric, project, or task**. They provide an immediate understanding of what's on track, what needs attention, and what's at risk. To ensure consistency across all our products, please adhere to the following color palette:
