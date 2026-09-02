@@ -14,7 +14,7 @@ Use consistent colour and line styles across products for comparability.
 
 *A reference table outlining the correct colour is included below*
 
-![Diagram of SW HEX colours](images/branding_identity.png "Diagram of SW HEX colours"){data-title="Diagram of SW HEX colours" data-caption-position="top"}
+![Diagram of SW HEX colours](images/branding_identity_update.png "Diagram of SW HEX colours"){data-title="Diagram of SW HEX colours" data-caption-position="top"}
 
 ---
 
