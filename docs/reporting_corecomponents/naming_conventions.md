@@ -12,7 +12,7 @@ When displaying multiple providers, always present them in a standard, agreed or
 
 *A reference table outlining the correct order and standard abbreviations for all providers is included below*
 
-![Diagram of SW naming conventions](images/naming_conventions.png "Diagram of SW naming conventions"){data-title="Diagram of SW naming conventions" data-caption-position="top"}
+![Diagram of SW naming conventions](images/naming_conventions_update.png "Diagram of SW naming conventions"){data-title="Diagram of SW naming conventions" data-caption-position="top"}
 
 Please be aware ICB clustering is expected to happen in the near future, therefore ensure any products are desinged to accomodate this. 
 
